@@ -2,13 +2,13 @@
 
 _________________________________________________________________
 
-## ERROR ##
+**ERROR**
 
 Las hojas de estilos se muestran correctamente offline, pero
 en un servidor local se rompe.
 `Solución:`
 
-_BUG_
+**BUG**
 El slider(Carrusel) de imagenes al momento de cambiar de imagen,
 no es adaptable a el tamaño de las imagenes; lo que produce que
 la pagina se mueva de arriba a abajo sola.
